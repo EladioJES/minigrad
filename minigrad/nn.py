@@ -1,3 +1,4 @@
+import random
 from minigrad.engine import Value
 import matplotlib.pyplot as plt
 
